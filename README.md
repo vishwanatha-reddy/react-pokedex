@@ -1,4 +1,6 @@
-# Sandvine pokemon comparer 
+# React Pokedex 
+
+It is a react aplication used to compare the pokemon based on their attributes, with below functionalities.
 
 live application link: https://sandvine-pokemon-comparer.herokuapp.com/
 
